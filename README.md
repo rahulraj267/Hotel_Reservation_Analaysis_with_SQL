@@ -22,7 +22,7 @@ The dataset includes the following columns:
 - **avg_price_per_room:** The average price per room in the reservation.
 - **booking_status:** The status of the booking.
 
-## problem statements
+## Problem statements
 
 Tasked with analyzing this hotel reservation dataset using SQL. Here are 15 questions for which i wrote SQL queries to gain insights:
 
