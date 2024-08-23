@@ -1,4 +1,5 @@
 Hotel-Reservation-Analysis-with-SQL
+
 Overview
 This project showcases an analysis of a hotel reservation dataset using SQL. The dataset provides insights into guest preferences, booking trends, and operational factors crucial for the hotel industry. Each SQL query is designed to answer specific questions about the dataset, enabling deeper understanding and actionable insights.
 
